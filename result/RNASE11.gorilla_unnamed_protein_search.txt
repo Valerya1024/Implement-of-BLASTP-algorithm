@@ -1,0 +1,330 @@
+BLAST output 2020-12-17 04:38:03
+Query = METFPLLLLSLGLVLVEASESTMKIIKEEFTDEEMQYDMAKSGQEKQTIEILMNPILLVKNTSLSMSKDDMSSSLLTLRSLHYNDPKGNSSGNDKECCNDMTVWRKGSEASGSCKWSNNFIHGSTEVTRRVHRAPSCKFVQNPGISCCESPELENTVCQLTTGKQFPRLL
+Similarity score matrix: BLOSUM62
+Use settings: gap penalty=-10 gap extend penalty=-0.5 X=-15 A=70 H=4 N=2
+Display max 20 matches.
+_____________________________________________________________________
+
+Gorilla unnamed Score:889 Query cover:100% Identity:(170/170)1.00 Gap:(0/170)0.00 Expect:1.92e-184
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143
+Query   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G 
+
+      144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161
+Query   I   S   C   C   E   S   P   E   L   E   N   T   V   C   Q   L   T   T
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   I   S   C   C   E   S   P   E   L   E   N   T   V   C   Q   L   T   T 
+
+      162 163 164 165 166 167 168 169
+Query   G   K   Q   F   P   R   L   L
+        |   |   |   |   |   |   |   |
+Sbjct   G   K   Q   F   P   R   L   L 
+
+_____________________________________________________________________
+
+Homo_sapiens RNASE11 Score:824 Query cover:98% Identity:(158/168)0.94 Gap:(0/168)0.00 Expect:2.46e-170
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  :  |  |  |  .  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  T  L  L  T  F  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   .   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   V   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   :   |   |   |   |   |   |   |   |   |   |   .   .   |   |   |
+Sbjct   E   A   N   G   S   C   K   W   S   N   N   F   I   R   S   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143
+Query   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G
+        |   .   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   V   M   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G 
+
+      144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161
+Query   I   S   C   C   E   S   P   E   L   E   N   T   V   C   Q   L   T   T
+        |   |   |   |   |   |   .   |   |   |   |   |   |   |   |   .   |   |
+Sbjct   I   S   C   C   E   S   L   E   L   E   N   T   V   C   Q   F   T   T 
+
+      162 163 164 165 166 167
+Query   G   K   Q   F   P   R
+        |   |   |   |   |   |
+Sbjct   G   K   Q   F   P   R 
+
+_____________________________________________________________________
+
+Homo_sapiens RNASE11 Score:824 Query cover:98% Identity:(158/168)0.94 Gap:(0/168)0.00 Expect:2.46e-170
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  :  |  |  |  .  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  T  L  L  T  F  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   .   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   V   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   :   |   |   |   |   |   |   |   |   |   |   .   .   |   |   |
+Sbjct   E   A   N   G   S   C   K   W   S   N   N   F   I   R   S   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143
+Query   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G
+        |   .   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   V   M   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G 
+
+      144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161
+Query   I   S   C   C   E   S   P   E   L   E   N   T   V   C   Q   L   T   T
+        |   |   |   |   |   |   .   |   |   |   |   |   |   |   |   .   |   |
+Sbjct   I   S   C   C   E   S   L   E   L   E   N   T   V   C   Q   F   T   T 
+
+      162 163 164 165 166 167
+Query   G   K   Q   F   P   R
+        |   |   |   |   |   |
+Sbjct   G   K   Q   F   P   R 
+
+_____________________________________________________________________
+
+Homo_sapiens RNASE11 Score:824 Query cover:98% Identity:(158/168)0.94 Gap:(0/168)0.00 Expect:2.46e-170
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  :  |  |  |  .  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  T  L  L  T  F  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   .   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   V   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   :   |   |   |   |   |   |   |   |   |   |   .   .   |   |   |
+Sbjct   E   A   N   G   S   C   K   W   S   N   N   F   I   R   S   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143
+Query   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G
+        |   .   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   V   M   R   R   V   H   R   A   P   S   C   K   F   V   Q   N   P   G 
+
+      144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161
+Query   I   S   C   C   E   S   P   E   L   E   N   T   V   C   Q   L   T   T
+        |   |   |   |   |   |   .   |   |   |   |   |   |   |   |   .   |   |
+Sbjct   I   S   C   C   E   S   L   E   L   E   N   T   V   C   Q   F   T   T 
+
+      162 163 164 165 166 167
+Query   G   K   Q   F   P   R
+        |   |   |   |   |   |
+Sbjct   G   K   Q   F   P   R 
+
+_____________________________________________________________________
+
+Homo_sapiens RNASE11 Score:692 Query cover:83% Identity:(134/142)0.94 Gap:(0/142)0.00 Expect:9.60e-142
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  :  |  |  |  .  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  T  L  L  T  F  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   .   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   V   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   :   |   |   |   |   |   |   |   |   |   |   .   .   |   |   |
+Sbjct   E   A   N   G   S   C   K   W   S   N   N   F   I   R   S   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141
+Query   V   T   R   R   V   H   R   A   P   S   C   K   F   V   Q   N
+        |   .   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+Sbjct   V   M   R   R   V   H   R   A   P   S   C   K   F   V   Q   N 
+
+_____________________________________________________________________
+
+Homo_sapiens RNASE11 Score:657 Query cover:80% Identity:(128/136)0.94 Gap:(0/136)0.00 Expect:3.66e-134
+_____________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A 
+
+      18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+Query  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  E  S  T  M  K  I  I  K  E  E  F  T  D  E  E  M  Q 
+
+      36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53
+Query  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  Y  D  M  A  K  S  G  Q  E  K  Q  T  I  E  I  L  M  N 
+
+      54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+Query  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  P  I  L  L  V  K  N  T  S  L  S  M  S  K  D  D  M  S 
+
+      72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+Query  S  S  L  L  T  L  R  S  L  H  Y  N  D  P  K  G  N  S
+       |  :  |  |  |  .  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  S  T  L  L  T  F  R  S  L  H  Y  N  D  P  K  G  N  S 
+
+      90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107
+Query   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   G   S
+        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   .   |
+Sbjct   S   G   N   D   K   E   C   C   N   D   M   T   V   W   R   K   V   S 
+
+      108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+Query   E   A   S   G   S   C   K   W   S   N   N   F   I   H   G   S   T   E
+        |   |   :   |   |   |   |   |   |   |   |   |   |   .   .   |   |   |
+Sbjct   E   A   N   G   S   C   K   W   S   N   N   F   I   R   S   S   T   E 
+
+      126 127 128 129 130 131 132 133 134 135
+Query   V   T   R   R   V   H   R   A   P   S
+        |   .   |   |   |   |   |   |   |   |
+Sbjct   V   M   R   R   V   H   R   A   P   S 
+
+_______________________________________________________________________________________
+
+Homo_sapiens unnamed Score:214 Query cover:26% Identity:(44/45)0.98 Gap:(0/45)0.00 Expect:1.90e-38
+_______________________________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Query  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  V  E  A  S  E  S  T  M  K
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  .  |  |  |  |  |  |  |  |
+Sbjct  M  E  T  F  P  L  L  L  L  S  L  G  L  V  L  A  E  A  S  E  S  T  M  K 
+
+      24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+Query  I  I  K  E  E  F  T  D  E  E  M  Q  Y  D  M  A  K  S  G  Q  E
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  I  I  K  E  E  F  T  D  E  E  M  Q  Y  D  M  A  K  S  G  Q  E 
+

@@ -1,0 +1,6 @@
+Homo_sapiens/uniprot-proteome_UP000005640
+Mus_musculus/uniprot-proteome_UP000000589
+Gorilla/uniprot-proteome_UP000001519
+Zebrafish/uniprot-proteome_UP000000437
+C.elegans/uniprot-proteome_UP000001940
+Drosophila/uniprot-proteome_UP000000803

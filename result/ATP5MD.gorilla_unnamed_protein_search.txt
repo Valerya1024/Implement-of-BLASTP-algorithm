@@ -1,0 +1,85 @@
+BLAST output 2020-12-17 04:35:56
+Query = MAGPESDAQYQFTGIKKYFNSYTLTGRMNCVLATYGSIALIVLYFKLRSKKTPAVKAT
+Similarity score matrix: BLOSUM62
+Use settings: gap penalty=-10 gap extend penalty=-0.5 X=-15 A=70 H=4 N=2
+Display max 20 matches.
+_______________________________________________________________________________________
+
+Homo_sapiens ATP5MD Score:297 Query cover:100% Identity:(58/58)1.00 Gap:(0/58)0.00 Expect:2.33e-56
+_______________________________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Query  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L 
+
+      24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+Query  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R 
+
+      48 49 50 51 52 53 54 55 56 57
+Query  S  K  K  T  P  A  V  K  A  T
+       |  |  |  |  |  |  |  |  |  |
+Sbjct  S  K  K  T  P  A  V  K  A  T 
+
+_______________________________________________________________________________________
+
+Gorilla unnamed Score:297 Query cover:100% Identity:(58/58)1.00 Gap:(0/58)0.00 Expect:2.33e-56
+_______________________________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Query  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L 
+
+      24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+Query  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R 
+
+      48 49 50 51 52 53 54 55 56 57
+Query  S  K  K  T  P  A  V  K  A  T
+       |  |  |  |  |  |  |  |  |  |
+Sbjct  S  K  K  T  P  A  V  K  A  T 
+
+_______________________________________________________________________________________
+
+Mus_musculus Atp5md Score:270 Query cover:100% Identity:(52/58)0.90 Gap:(0/58)0.00 Expect:1.70e-50
+_______________________________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Query  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L
+       |  |  |  .  |  |  |  .  |  :  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Sbjct  M  A  G  A  E  S  D  G  Q  F  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L 
+
+      24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+Query  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R
+       |  |  |  |  |  |  |  |  |  |  |  |  .  |  |  |  :  |  |  |  |  |  |  |
+Sbjct  T  G  R  M  N  C  V  L  A  T  Y  G  G  I  A  L  L  V  L  Y  F  K  L  R 
+
+      48 49 50 51 52 53 54 55 56 57
+Query  S  K  K  T  P  A  V  K  A  T
+       .  |  |  |  |  |  |  |  |  |
+Sbjct  P  K  K  T  P  A  V  K  A  T 
+
+_______________________________________________________________________________________
+
+Zebrafish atp5md Score:198 Query cover:100% Identity:(37/58)0.64 Gap:(0/58)0.00 Expect:7.31e-35
+_______________________________________________________________________________________
+
+      0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Query  M  A  G  P  E  S  D  A  Q  Y  Q  F  T  G  I  K  K  Y  F  N  S  Y  T  L
+       |  .  |  .  :  :  .  :  |  :  |  |  |  |  |  .  |  |  |  |  |  |  |  :
+Sbjct  M  G  G  H  D  A  G  S  Q  H  Q  F  T  G  I  A  K  Y  F  N  S  Y  T  I 
+
+      24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+Query  T  G  R  M  N  C  V  L  A  T  Y  G  S  I  A  L  I  V  L  Y  F  K  L  R
+       |  |  |  .  |  |  |  |  |  |  |  .  |  |  |  .  |  :  |  :  |  |  |  :
+Sbjct  T  G  R  R  N  C  V  L  A  T  Y  A  S  I  A  A  I  I  L  F  F  K  L  K 
+
+      48 49 50 51 52 53 54 55 56 57
+Query  S  K  K  T  P  A  V  K  A  T
+       .  |  |  .  .  |  |  .  :  :
+Sbjct  P  K  K  Q  K  A  V  T  S  S 
+
